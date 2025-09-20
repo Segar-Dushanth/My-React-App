@@ -1,4 +1,5 @@
 console.log('Hello, React');
 // Adding a comment
 // Adding another comment
-console.log("Hello from the collaborator!");
+console.log("Hello from the whole team!");
+
